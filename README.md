@@ -32,7 +32,17 @@ http://127.0.0.1:5187/
 
 ## GitHub / live preview
 
-Будет обновлено после deploy.
+Репозиторий:
+
+```text
+https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck
+```
+
+GitHub Pages:
+
+```text
+https://vitaliy-demidov.github.io/most-v4-3-visual-sense-deck/
+```
 
 ## Файл
 

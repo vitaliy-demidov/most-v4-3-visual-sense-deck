@@ -2,7 +2,8 @@
 
 ## Live
 
-Pending deploy.
+- GitHub Pages: https://vitaliy-demidov.github.io/most-v4-3-visual-sense-deck/
+- GitHub repo: https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck
 
 ## Local
 
@@ -20,4 +21,4 @@ Pending deploy.
 
 ## Verification
 
-Pending local/browser/GitHub Pages verification.
+Ad-hoc verification required after final deploy because this is standalone static HTML with no canonical test suite.
