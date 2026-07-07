@@ -1,4 +1,4 @@
-# MOST v4.3 — Delivery
+# MOST v4.4 — Delivery
 
 ## Live
 
@@ -11,14 +11,20 @@
 /Users/vitalij/Desktop/most-hermes-v3-ui-redesign/v4.3-visual-sense-deck/index.html
 ```
 
-## What v4.3 adds
+## What v4.4 adds
 
-- Graphic-first visual sense deck.
-- Less text than v4.2.
-- One screen = one idea.
-- Details hidden behind `пояснить`.
-- Full 8-step MOST logic preserved.
+- External pitch deck instead of internal handoff page.
+- Full-screen 8-slide deck with keyboard navigation.
+- Detail drawer for deeper explanation on demand.
+- No public dev/local path block in the main deck.
+- Business framing: trust graph, deal brief, route map, deal room, money model, 30-day pilot.
+- Previous v4.3 page preserved as `v4.3-internal-handoff.html`.
 
 ## Verification
 
-Ad-hoc verification required after final deploy because this is standalone static HTML with no canonical test suite.
+Verify after deploy:
+
+1. Open local URL.
+2. Check console for JS errors.
+3. Test next/prev, keyboard arrows, Space, `D`, and detail drawer close.
+4. Confirm GitHub Pages reflects the latest commit.
